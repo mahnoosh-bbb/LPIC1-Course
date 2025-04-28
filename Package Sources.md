@@ -9,3 +9,7 @@ in Debian:
 - for download packages :
 
 (https://pkgs.org)
+
+```console
+    :dpkg -l
+```
