@@ -14,8 +14,14 @@ in Debian:
 ```console
     :dpkg -l
 ```
-#### with `wget [address]` we can download the package
-#### with `dpkg -i [name for package]` install the package 
+- Download the package
+```console
+    wget [address]
+```
+- install the Package
+```console
+    dpkg -i [name for package]
+```
 
 - Where are the packages we have installed copied to:
 ```console
