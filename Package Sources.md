@@ -1,0 +1,1 @@
+`cat /etc/apt/sources.list.d/ubuntu.sources`
