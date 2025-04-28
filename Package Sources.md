@@ -8,4 +8,4 @@ in Debian:
 
 - for download packages :
 
-[Vim] (https://pkgs.org)
+(https://pkgs.org)
