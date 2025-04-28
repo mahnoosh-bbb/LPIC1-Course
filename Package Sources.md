@@ -10,12 +10,12 @@ in Debian:
 
 (https://pkgs.org)
 
-### list for installed package
+- list for installed package
 ```console
     :dpkg -l
 ```
-### with `wget [address]` we can download the package
-### with `dpkg -i [name for package]` install the package 
+#### with `wget [address]` we can download the package
+#### with `dpkg -i [name for package]` install the package 
 
 - Where are the packages we have installed copied to:
 ```console
