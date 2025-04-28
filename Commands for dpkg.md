@@ -52,3 +52,8 @@ in Debian:
 ```console
     dpkg -s [packageName]
 ```
+
+- delete package file
+```console
+    rm [fileName]
+```
