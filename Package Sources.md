@@ -5,3 +5,7 @@ in Ubuntu:
 in Debian:
 
 `cat /etc/apt/sources.list`
+
+- for download packages :
+
+[Vim] (https://pkgs.org)
