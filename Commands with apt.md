@@ -38,7 +38,7 @@ or
     apt remove [PackageName][aria2]
 ```
 
--Delete Dependecies Package:
+- Delete Dependecies Package:
 ```console
     apt autoremove
 ```
